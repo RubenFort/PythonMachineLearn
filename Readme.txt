@@ -4,3 +4,9 @@ Install libraries:
 
 	*pandas
 	pip install pandas
+
+	*seaborn
+	pip install *seaborn
+
+	*matplotlib
+	pip install matplotlib
